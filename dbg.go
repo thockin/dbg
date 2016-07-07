@@ -1,3 +1,4 @@
+// Package dbg offers some utility functions for debugging and debug-printing.
 package dbg
 
 import (
